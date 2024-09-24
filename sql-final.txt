@@ -1,0 +1,87 @@
+CREATE DATABASE IF NOT EXISTS ecommerce;
+
+-- 2. Use the new database
+USE ecommerce;
+
+-- 3. Create the categories table first (since products references categories)
+CREATE TABLE categories (
+    category_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    img_url VARCHAR(255)
+);
+
+-- 4. Create the products table
+CREATE TABLE products (
+    product_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    description TEXT,use 
+    price DECIMAL(10, 2),
+    stock INT,
+    image_url VARCHAR(255),
+    category_id INT,
+    FOREIGN KEY (category_id) REFERENCES categories(category_id)
+);
+
+-- 5. Insert category data
+INSERT INTO categories (name,img_url)
+VALUES 
+('Mobiles','https://drive.google.com/thumbnail?id=1vDucpd99N2oSp_9FysxHj9ehJxwrGhYn'),
+('Laptops','https://drive.google.com/thumbnail?id=1aCGHs5ER3rair65VUvYfpzqSvn45UZck'),
+('Clothing','https://drive.google.com/thumbnail?id=1uTncUAOwUBTwqb2g7vrwbSNLGkjJ55t5'),
+('Accessories','https://drive.google.com/thumbnail?id=1eX2nSv2Kjy5LNtgc0ubsUSG-GD8dDxJS'),
+('Tools','https://drive.google.com/thumbnail?id=1GvdZbo6Mtvp7lUEqUoDSzYzq8dSON2UT');
+
+
+
+-- 7. Update image URLs for each product
+-- Mobiles
+INSERT INTO products (name, description, price, stock, image_url, category_id)
+VALUES 
+('Samsung Galaxy S21', 'Latest Samsung Galaxy S21 with Exynos 2100 chip.', 799.00, 60, 'https://drive.google.com/thumbnail?id=1To5mgL3Pe0wy1133FL7MbS_7SR5LuCIQ', 1),
+('Google Pixel 6', 'Google Pixel 6 with Tensor chip and 5G support.', 599.00, 75, 'https://drive.google.com/thumbnail?id=1ngukn0T9_O-lQoUMMsZkFp7NNcEVcUF7',1),
+('Xiaomi Mi 11', 'Xiaomi Mi 11 with Snapdragon 888 and AMOLED display.', 699.00, 80, 'https://drive.google.com/thumbnail?id=1bhSqmC8rHu7-Pi62G-Mg9j7ELayqRDnb',1),
+('Sony Xperia 5', 'Sony Xperia 5 with OLED display and triple camera system.', 849.00, 40, 'https://drive.google.com/thumbnail?id=1qisnYG2F46YNikGZvuPfu-P_bjuy_uLK', 1),
+('OnePlus Nord 2', 'OnePlus Nord 2 with Dimensity 1200 and 5G connectivity.', 499.00, 90, 'https://drive.google.com/thumbnail?id=1sqwng2AXuNluNkMVU0XEPnTdOHgEbKl9', 1);
+
+-- Laptops
+INSERT INTO products (name, description, price, stock, image_url, category_id)
+VALUES 
+('Dell XPS 13', 'Dell XPS 13 with Intel i7 and 16GB RAM.', 999.00, 30, 'https://drive.google.com/thumbnail?id=1BVdQ3vGou3kxv0NlsPY1PBLaa4_Vhrr4', 2),
+('MacBook Pro 16', 'MacBook Pro 16 with M1 Pro chip and 32GB RAM.', 2399.00, 20, 'https://drive.google.com/thumbnail?id=10wVqQ_C5NIBT8B5cEJDezhMsNu35m_-c', 2),
+('HP Spectre x360', 'HP Spectre x360 with Intel i5 and 8GB RAM.', 1199.00, 25, 'https://drive.google.com/thumbnail?id=1Rxb4-wJmPzAUaxt_lF2TmP6gLjrsnmRl', 2),
+('Lenovo ThinkPad X1', 'Lenovo ThinkPad X1 with Intel i7 and 16GB RAM.', 1299.00, 35, 'https://drive.google.com/thumbnail?id=1aqcwJO0endyljNv8CLk-7950fWU8Yo6t', 2),
+('Asus ZenBook 14', 'Asus ZenBook 14 with Ryzen 7 and 16GB RAM.', 899.00, 40, 'https://drive.google.com/thumbnail?id=120fx99od5vNgNC1ySqUNokOeIgk5Oiga', 2);
+
+-- Clothing
+INSERT INTO products (name, description, price, stock, image_url, category_id)
+VALUES 
+('Men\'s T-Shirt', 'Comfortable cotton t-shirt for men.', 19.99, 100, 'https://drive.google.com/thumbnail?id=1c3zN3hPqKa6hla0WA0BRS2dGwO8zWP3L', 3),
+('Women\'s Dress', 'Elegant dress for women, available in various sizes.', 49.99, 60, 'https://drive.google.com/thumbnail?id=1VX9tJnvFPZRNXR9VS5VuTytzhZU-JO8r', 3),
+('Hoodie', 'Warm hoodie for all seasons.', 39.99, 75, 'https://drive.google.com/thumbnail?id=1CBdWHqbWGH0s3dtQBMSapAkygjyb32P4', 3),
+('Jeans', 'Stylish denim jeans, available in different fits.', 29.99, 80, 'https://drive.google.com/thumbnail?id=1cIFOzqlvELy_yrF0aczrSlbPOFlCBaJH', 3),
+('Jacket', 'Weather-resistant jacket for casual wear.', 59.99, 50, 'https://drive.google.com/thumbnail?id=1wVqY6CS5GbeOKCQ6bDXq502hT6LfFwhM', 3);
+
+-- Accessories
+INSERT INTO products (name, description, price, stock, image_url, category_id)
+VALUES 
+('Wireless Earbuds', 'Bluetooth wireless earbuds with noise cancellation.', 99.99, 120, 'https://drive.google.com/thumbnail?id=1z_g3n6Utnnq9tHyKVzfO1YTDdY6euZt9', 4),
+('Smartwatch', 'Smartwatch with fitness tracking and notifications.', 149.99, 90, 'https://drive.google.com/thumbnail?id=1ifQBjWmTM4hmdjB7Wie5N3GeHyzAEBGv', 4),
+('Phone Case', 'Protective phone case for various models.', 19.99, 200, 'https://drive.google.com/thumbnail?id=1xIAnhz91bdBvPiBaRAF7wI0DnMLoySoY', 4),
+('Bluetooth Speaker', 'Portable Bluetooth speaker with high sound quality.', 79.99, 110, 'https://drive.google.com/thumbnail?id=1EjPVm2bA5cO80sollMrFQeHOzmEYTo-T', 4),
+('Laptop Bag', 'Durable laptop bag with compartments.', 39.99, 70, 'https://drive.google.com/thumbnail?id=1LibwEAPUp8FjVUXGQx7djFM_-0GZb3EP', 4);
+
+-- Tools
+INSERT INTO products (name, description, price, stock, image_url, category_id)
+VALUES 
+('Cordless Drill', 'High-power cordless drill with multiple accessories.', 89.99, 50, 'https://drive.google.com/thumbnail?id=1d3AcpGBu7JgmXtHBpnNuvIUchDK7hPd1', 5),
+('Laser level', 'Highly precise Laser level to calculate the imbalances of the surface.', 29.99, 75, 'https://drive.google.com/thumbnail?id=1HZG9vDDcfBTl4ivrwA4zrshGV7HSn8jL', 5),
+('Circular saw', 'Heavy-duty circular saw for various tasks.', 15.99, 100, 'https://drive.google.com/thumbnail?id=1ikkUUlB9FPm5ma3kcae1-yTJab0_rUnd', 5),
+('Tool set', 'Tools for all use cases in one box.', 12.99, 150, 'https://drive.google.com/thumbnail?id=1rxkHF9YMilLy3-Ag8Ni7dueRI8UA_o47', 5),
+('Impact Wrench', 'Complete wrench set with various setting levels.', 49.99, 60, 'https://drive.google.com/thumbnail?id=1XbvuG1plXI79OXGNEXm3p89k2PvaAKyW', 5);
+
+
+
+-- Additional
+INSERT INTO products (name, description, price, stock, image_url, category_id)
+VALUES 
+('iPhone14', 'iPhone14 the highest end of phones of this generation', 999.99, 30, 'https://drive.google.com/thumbnail?id=19kxeWiVwkshN-VbFMJjmNeyrzQLjCbih', 1);
