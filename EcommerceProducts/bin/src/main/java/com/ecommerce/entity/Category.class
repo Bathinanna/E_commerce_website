@@ -1,0 +1,48 @@
+����&#x0;&#x0;&#x0;A&#x0;2&#x0;&#x0;+src/main/java/com/ecommerce/entity/Category&#x0;&#x0;java/lang/Object&#x0;category_id&#x0;LLong;&#x0;RuntimeInvisibleAnnotations&#x0;LId;&#x0;LGeneratedValue;&#x0;strategy&#x0;name&#x0;Ljava/lang/String;&#x0;LColumn;&#x0;nullable&#x0;unique&#x0;<init>&#x0;()V&#x0;Code&#x0;&#x0;java/lang/Error&#x0;lUnresolved compilation problems: 
+        The declared package "com.ecommerce.entity" does not match the expected package "src.main.java.com.ecommerce.entity"
+        The import jakarta cannot be resolved
+        The import java.util cannot be resolved
+        The import java.util cannot be resolved
+        Entity cannot be resolved to a type
+        Table cannot be resolved to a type
+        Id cannot be resolved to a type
+        GeneratedValue cannot be resolved to a type
+        GenerationType cannot be resolved to a variable
+        Long cannot be resolved to a type
+        Column cannot be resolved to a type
+        String cannot be resolved to a type
+        Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+        Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+
+&#x0;&#x0;&#x0;&#x0;&#x0;(Ljava/lang/String;)V&#x0;LineNumberTable&#x0;LocalVariableTable&#x0;this&#x0;-Lsrc/main/java/com/ecommerce/entity/Category;&#x0;getId&#x0;()LLong;&#x0;!&#x0;hUnresolved compilation problems: 
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+&#x0;setId&#x0;        (LLong;)V&#x0;getName&#x0;()Ljava/lang/String;&#x0;'&#x0;lUnresolved compilation problems: 
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+&#x0;setName&#x0;
+SourceFile&#x0; Category.java&#x0;LEntity;&#x0;LTable;&#x0;.&#x0;Long&#x0;0&#x0;java/lang/String&#x0;MissingTypes&#x0;!&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y �&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;"&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y �&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;$&#x0;%&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y&�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y&�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;'&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;)&#x0;&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;+&#x0;&#x0;&#x0;,&#x0;&#x0;&#x0;1&#x0;&#x0;&#x0;&#x0;&#x0;-&#x0;/
