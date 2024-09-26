@@ -1,0 +1,4 @@
+����&#x0;&#x0;&#x0;A&#x0;&#x0;&#x0;8src/main/java/com/ecommerce/repository/ProductRepository&#x0;&#x0;java/lang/Object&#x0;
+SourceFile&#x0;ProductRepository.java&#x0;        Signature&#x0;2Ljava/lang/Object;LJpaRepository<LProduct;LLong;>;&#x0;InconsistentHierarchy&#x0;&#x0; JpaRepository&#x0; &#x0;Long&#x0;&#x0;Product&#x0;MissingTypes&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;
+&#x0;&#x0;&#x0;
