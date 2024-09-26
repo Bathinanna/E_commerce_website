@@ -1,0 +1,96 @@
+����&#x0;&#x0;&#x0;A&#x0;B&#x0;&#x0;;src/main/java/com/ecommerce/service/impl/ProductServiceImpl&#x0;&#x0;java/lang/Object&#x0;productRepository&#x0;LProductRepository;&#x0;RuntimeInvisibleAnnotations&#x0;LAutowired;&#x0;categoryRepository&#x0;LCategoryRepository;&#x0;<init>&#x0;()V&#x0;Code&#x0;&#x0;java/lang/Error&#x0;Unresolved compilation problems: 
+        The declared package "com.ecommerce.service.impl" does not match the expected package "src.main.java.com.ecommerce.service.impl"
+        The import lombok cannot be resolved
+        The import com cannot be resolved
+        The import com cannot be resolved
+        The import com cannot be resolved
+        The import com cannot be resolved
+        The import org cannot be resolved
+        The import org cannot be resolved
+        The import org cannot be resolved
+        The import org cannot be resolved
+        The import java.util cannot be resolved
+        The import java.util cannot be resolved
+        The import java.util cannot be resolved
+        Service cannot be resolved to a type
+        AllArgsConstructor cannot be resolved to a type
+        Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+        ProductService cannot be resolved to a type
+        Autowired cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+        Autowired cannot be resolved to a type
+        CategoryRepository cannot be resolved to a type
+        Override cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+        Override cannot be resolved to a type
+        Product cannot be resolved to a type
+        Long cannot be resolved to a type
+        Optional cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+        Override cannot be resolved to a type
+        List cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+        Override cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+        Override cannot be resolved to a type
+        Long cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+
+&#x0;&#x0;&#x0;&#x0;&#x0;(Ljava/lang/String;)V&#x0;LineNumberTable&#x0;LocalVariableTable&#x0;this&#x0;=Lsrc/main/java/com/ecommerce/service/impl/ProductServiceImpl;&#x0; createProduct&#x0;(LProduct;)LProduct;&#x0;
+LOverride;&#x0;&#x0;�Unresolved compilation problems: 
+        Override cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+&#x0;getProductById&#x0;(LLong;)LProduct;&#x0;!Unresolved compilation problems: 
+        Override cannot be resolved to a type
+        Product cannot be resolved to a type
+        Long cannot be resolved to a type
+        Optional cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+&#x0;getAllProducts&#x0;()LList;&#x0;        Signature&#x0;()LList<LProduct;>;&#x0;'&#x0;�Unresolved compilation problems: 
+        Override cannot be resolved to a type
+        List cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+&#x0; updateProduct&#x0;*�Unresolved compilation problems: 
+        Override cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+&#x0; deleteProduct&#x0;        (LLong;)V&#x0;.&#x0;�Unresolved compilation problems: 
+        Override cannot be resolved to a type
+        Long cannot be resolved to a type
+        ProductRepository cannot be resolved to a type
+&#x0;
+SourceFile&#x0;ProductServiceImpl.java&#x0;        LService;&#x0;value&#x0;LAllArgsConstructor;&#x0;InconsistentHierarchy&#x0;6&#x0;CategoryRepository&#x0;8&#x0;List&#x0;:&#x0;Long&#x0;<&#x0;Product&#x0;>&#x0;ProductRepository&#x0;@&#x0;ProductService&#x0;MissingTypes&#x0;!&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y �&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;"&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;"&#x0;#&#x0;&#x0;$&#x0;&#x0;&#x0;&#x0;%&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y&�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y)�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;-&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;+&#x0;,&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y-�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;6&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;/&#x0;&#x0;&#x0;&#x0;0&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;3&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;A&#x0;&#x0;&#x0;&#x0;&#x0;5&#x0;7&#x0;9&#x0;;&#x0;=&#x0;?&#x0;
