@@ -1,0 +1,121 @@
+����&#x0;&#x0;&#x0;A&#x0;W&#x0;&#x0;*src/main/java/com/ecommerce/entity/Product&#x0;&#x0;java/lang/Object&#x0;
+product_id&#x0;LLong;&#x0;RuntimeInvisibleAnnotations&#x0;LId;&#x0;LGeneratedValue;&#x0;strategy&#x0;name&#x0;Ljava/lang/String;&#x0;LColumn;&#x0;nullable&#x0;description&#x0;price&#x0;LDouble;&#x0;stock&#x0;        image_url&#x0;category&#x0;-Lsrc/main/java/com/ecommerce/entity/Category;&#x0;LManyToOne;&#x0;LJoinColumn;&#x0;referencedColumnName&#x0;<init>&#x0;()V&#x0;Code&#x0;&#x0;java/lang/Error&#x0;        �Unresolved compilation problems: 
+        The declared package "com.ecommerce.entity" does not match the expected package "src.main.java.com.ecommerce.entity"
+        The import jakarta cannot be resolved
+        The import lombok cannot be resolved
+        The import lombok cannot be resolved
+        The import lombok cannot be resolved
+        The import lombok cannot be resolved
+        Getter cannot be resolved to a type
+        Setter cannot be resolved to a type
+        NoArgsConstructor cannot be resolved to a type
+        AllArgsConstructor cannot be resolved to a type
+        Entity cannot be resolved to a type
+        Table cannot be resolved to a type
+        Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+        Id cannot be resolved to a type
+        GeneratedValue cannot be resolved to a type
+        GenerationType cannot be resolved to a variable
+        Long cannot be resolved to a type
+        Column cannot be resolved to a type
+        String cannot be resolved to a type
+        Column cannot be resolved to a type
+        String cannot be resolved to a type
+        Column cannot be resolved to a type
+        Double cannot be resolved to a type
+        Column cannot be resolved to a type
+        Long cannot be resolved to a type
+        Column cannot be resolved to a type
+        String cannot be resolved to a type
+        ManyToOne cannot be resolved to a type
+        JoinColumn cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        Double cannot be resolved to a type
+        Double cannot be resolved to a type
+        Double cannot be resolved to a type
+        Double cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        Override cannot be resolved to a type
+        String cannot be resolved to a type
+        Long cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        Double cannot be resolved to a type
+        Long cannot be resolved to a type
+        String cannot be resolved to a type
+
+&#x0;&#x0;!&#x0;&#x0;"&#x0;(Ljava/lang/String;)V&#x0;LineNumberTable&#x0;LocalVariableTable&#x0;this&#x0;,Lsrc/main/java/com/ecommerce/entity/Product;&#x0; getProduct_id&#x0;()LLong;&#x0;*&#x0;hUnresolved compilation problems: 
+        Long cannot be resolved to a type
+        Long cannot be resolved to a type
+&#x0; setProduct_id&#x0;        (LLong;)V&#x0;getName&#x0;()Ljava/lang/String;&#x0;0&#x0;lUnresolved compilation problems: 
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+&#x0;setName&#x0;getDescription&#x0;setDescription&#x0;getPrice&#x0;
+()LDouble;&#x0;7&#x0;lUnresolved compilation problems: 
+        Double cannot be resolved to a type
+        Double cannot be resolved to a type
+&#x0;setPrice&#x0;(LDouble;)V&#x0;getStock&#x0;setStock&#x0;getImage_url&#x0;setImage_url&#x0;getCategory&#x0;/()Lsrc/main/java/com/ecommerce/entity/Category;&#x0;A&#x0;!Unresolved compilation problem: 
+&#x0;setCategory&#x0;0(Lsrc/main/java/com/ecommerce/entity/Category;)V&#x0;toString&#x0;
+LOverride;&#x0;GHUnresolved compilation problems: 
+        Override cannot be resolved to a type
+        String cannot be resolved to a type
+        Long cannot be resolved to a type
+        String cannot be resolved to a type
+        String cannot be resolved to a type
+        Double cannot be resolved to a type
+        Long cannot be resolved to a type
+        String cannot be resolved to a type
+&#x0;
+SourceFile&#x0;Product.java&#x0;LGetter;&#x0;LSetter;&#x0;LNoArgsConstructor;&#x0;LAllArgsConstructor;&#x0;LEntity;&#x0;LTable;&#x0;Q&#x0;Double&#x0;S&#x0;Long&#x0;U&#x0;java/lang/String&#x0;MissingTypes&#x0;!&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;'&#x0;(&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y)�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;,&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;+&#x0;,&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y)�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;1&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;-&#x0;.&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y/�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;6&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;1&#x0;"&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y/�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;;&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;2&#x0;.&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y/�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;@&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;3&#x0;"&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y/�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;E&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;4&#x0;5&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y6�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;J&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;8&#x0;9&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y6�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;O&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;:&#x0;(&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y)�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;T&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;;&#x0;,&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y)�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;Y&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;<&#x0;.&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y/�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;^&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;=&#x0;"&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y/�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;c&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;>&#x0;?&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y@�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;h&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;B&#x0;C&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y@�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;m&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;D&#x0;.&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;E&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;YF�&#x0; �&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;r&#x0;$&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;%&#x0;&&#x0;&#x0;&#x0;&#x0;H&#x0;&#x0;&#x0;&#x0;I&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;J&#x0;&#x0;&#x0;K&#x0;&#x0;&#x0;L&#x0;&#x0;&#x0;M&#x0;&#x0;&#x0;N&#x0;&#x0;&#x0;O&#x0;&#x0;&#x0;V&#x0;&#x0;&#x0;&#x0;&#x0;P&#x0;R&#x0;T
