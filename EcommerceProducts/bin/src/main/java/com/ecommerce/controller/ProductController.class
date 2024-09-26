@@ -1,0 +1,131 @@
+����&#x0;&#x0;&#x0;A&#x0;J&#x0;&#x0;8src/main/java/com/ecommerce/controller/ProductController&#x0;&#x0;java/lang/Object&#x0;productService&#x0;LProductService;&#x0;RuntimeInvisibleAnnotations&#x0;LAutowired;&#x0;<init>&#x0;()V&#x0;Code&#x0; &#x0;java/lang/Error&#x0;
+�Unresolved compilation problems: 
+        The declared package "com.ecommerce.controller" does not match the expected package "src.main.java.com.ecommerce.controller"
+        The import lombok cannot be resolved
+        The import com cannot be resolved
+        The import com cannot be resolved
+        The import org cannot be resolved
+        The import org cannot be resolved
+        The import org cannot be resolved
+        The import org cannot be resolved
+        The import java.util cannot be resolved
+        RestController cannot be resolved to a type
+        AllArgsConstructor cannot be resolved to a type
+        RequestMapping cannot be resolved to a type
+        Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+        Autowired cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        PostMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        Product cannot be resolved to a type
+        RequestBody cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+        GetMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        Product cannot be resolved to a type
+        PathVariable cannot be resolved to a type
+        Long cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+        GetMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        List cannot be resolved to a type
+        Product cannot be resolved to a type
+        List cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+        PutMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        Product cannot be resolved to a type
+        PathVariable cannot be resolved to a type
+        Long cannot be resolved to a type
+        RequestBody cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+        DeleteMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        String cannot be resolved to a type
+        PathVariable cannot be resolved to a type
+        Long cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+
+&#x0;&#x0;&#x0;        &#x0;&#x0;(Ljava/lang/String;)V&#x0;LineNumberTable&#x0;LocalVariableTable&#x0;this&#x0;:Lsrc/main/java/com/ecommerce/controller/ProductController;&#x0; createProduct&#x0;(LProduct;)LResponseEntity;&#x0;        Signature&#x0;&(LProduct;)LResponseEntity<LProduct;>;&#x0; LPostMapping;&#x0;$RuntimeInvisibleParameterAnnotations&#x0; LRequestBody;&#x0;�Unresolved compilation problems: 
+        PostMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        Product cannot be resolved to a type
+        RequestBody cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+&#x0;getproductById&#x0;(LLong;)LResponseEntity;&#x0;#(LLong;)LResponseEntity<LProduct;>;&#x0;LGetMapping;&#x0;value&#x0;LPathVariable;&#x0;'�Unresolved compilation problems: 
+        GetMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        Product cannot be resolved to a type
+        PathVariable cannot be resolved to a type
+        Long cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+&#x0;getAllProducts&#x0;()LResponseEntity;&#x0;%()LResponseEntity<LList<LProduct;>;>;&#x0;,�Unresolved compilation problems: 
+        GetMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        List cannot be resolved to a type
+        Product cannot be resolved to a type
+        List cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+&#x0; updateProduct&#x0;!(LLong;LProduct;)LResponseEntity;&#x0;,(LLong;LProduct;)LResponseEntity<LProduct;>;&#x0;LPutMapping;&#x0;2�Unresolved compilation problems: 
+        PutMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        Product cannot be resolved to a type
+        PathVariable cannot be resolved to a type
+        Long cannot be resolved to a type
+        RequestBody cannot be resolved to a type
+        Product cannot be resolved to a type
+        Product cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+&#x0; deleteProduct&#x0;,(LLong;)LResponseEntity<Ljava/lang/String;>;&#x0;LDeleteMapping;&#x0;7uUnresolved compilation problems: 
+        DeleteMapping cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        String cannot be resolved to a type
+        PathVariable cannot be resolved to a type
+        Long cannot be resolved to a type
+        ProductService cannot be resolved to a type
+        ResponseEntity cannot be resolved to a type
+        HttpStatus cannot be resolved to a variable
+&#x0;
+SourceFile&#x0;ProductController.java&#x0;LRestController;&#x0;LAllArgsConstructor;&#x0;LRequestMapping;&#x0;>&#x0;List&#x0;@&#x0;Long&#x0;B&#x0;Product&#x0;D&#x0;ProductService&#x0;F&#x0;ResponseEntity&#x0;H&#x0;java/lang/String&#x0;MissingTypes&#x0;!&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;!&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;"&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y&�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;(&#x0;)&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;*&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;#&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y+�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;(&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;-&#x0;.&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;/&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y1�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;/&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;3&#x0;!&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;4&#x0;&#x0;&#x0;&#x0;&#x0;
+�&#x0;Y6�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;:&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;8&#x0;&#x0;&#x0;&#x0;9&#x0;&#x0;&#x0;&#x0;
+&#x0;&#x0;:&#x0;&#x0;&#x0;;&#x0;&#x0;&#x0;I&#x0;&#x0;&#x0;&#x0;&#x0;=&#x0;?&#x0;A&#x0;C&#x0;E&#x0;G
