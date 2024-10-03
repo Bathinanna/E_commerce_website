@@ -2,11 +2,11 @@
   "name": "e-commerce-website",
   "version": "1.0.0",
   "scripts": {
-    "start": "node server.js", // Adjust according to your entry file
-    "build": "your-build-command", // If applicable
-    "test": "your-test-command" // If applicable
+    "start": "node server.js",
+    "build": "your-build-command",
+    "test": "your-test-command"
   },
   "dependencies": {
-    // Your dependencies here
+    
   }
 }
