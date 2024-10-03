@@ -22,15 +22,13 @@ function showProductDetails(productId) {
   productSection.style.animation = 'slideIn 0.5s ease-in-out';
 }
 
-document.querySelectorAll('.buy-now').forEach(button => {
-  button.addEventListener('click', () => {
+// Use event delegation for dynamically created buttons
+document.body.addEventListener('click', (event) => {
+  if (event.target.classList.contains('buy-now')) {
     alert('Proceed to checkout!');
-  });
+  } else if (event.target.classList.contains('add-to-cart')) {
+    alert('Item added to cart!');
+  }
 });
 
-document.querySelectorAll('.add-to-cart').forEach(button => {
-  button.addEventListener('click', () => {
-    alert('Item added to cart!');
-  });
-});
 
