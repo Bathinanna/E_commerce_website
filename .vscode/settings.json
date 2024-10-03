@@ -7,6 +7,6 @@
     "test": "your-test-command"
   },
   "dependencies": {
-    
+    "express": "^4.17.1" // Add necessary dependencies here
   }
 }
